@@ -1,0 +1,11 @@
+.myh1new{
+    font-size: 50px;
+    font-weight: bold;
+    font-family:"roboto";
+    color: blueviolet;
+}
+.button{
+    border-width: 2px;
+    color: chocolate;
+    border-color: blue;
+}
